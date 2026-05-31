@@ -13,7 +13,7 @@
         host: "https://potential-orbit-r4xgw567p6793p67x-5005.app.github.dev",
         title: "Chat with a bot",
         container: document.querySelector(".chat-container"),
-        welcomeMessage: "Nice to meet you.",
+        welcomeMessage: "Hi, I am a Weatherbot, how can i help you?",
         speechRecognition: "en-US",
         voiceLang: "en-US"
     });
